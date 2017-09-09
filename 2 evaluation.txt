@@ -1,0 +1,33 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<ol type="1">
+<li> Cse</li>
+<ul style="list-style-type:circle">
+<li>SEMESTER 1</li>
+</ul>
+<p>chemistry</p>
+</br>
+<p>chemistry is applied science</p>
+<li>ME</li>
+<ul style="list-style-type:circle">
+<li>SEMESTER 2/li>
+</ul>
+<p>maths </p>
+</br>
+<ol type="1">
+<li>ECE</li>
+<ul style="list-style-type:square">
+<li>DELD</li>
+</ul>
+<p> DELD</p>
+</br>
+<li>MS</li>
+<ul style="list-style-type:square">
+<li>SEMESTER 4<\li>
+</ul>
+</ol>
+</body>
+</html>
